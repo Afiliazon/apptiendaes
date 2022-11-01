@@ -12,7 +12,7 @@
 	<atom:link href="https://apptienda.es/feed/" rel="self" type="application/rss+xml" />
 	<link>https://apptienda.es/</link>
 	<description>Tu sitio de moda</description>
-	<lastBuildDate>Tue, 23 Nov 2021 11:52:12 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 19 Oct 2022 09:48:09 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,7 +20,7 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
-		<title>Hello world!</title>
+		<title>SIMPLE</title>
 		<link>https://apptienda.es/hello-world/</link>
 					<comments>https://apptienda.es/hello-world/#comments</comments>
 		
@@ -29,9 +29,9 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://apptienda.es/?p=1</guid>
 
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+					<description><![CDATA[ESTO ES UN CAMBIO DE PRUEBA PARA SIMPLY]]></description>
 										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>ESTO ES UN CAMBIO DE PRUEBA PARA SIMPLY</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://apptienda.es/hello-world/feed/</wfw:commentRss>
